@@ -25,3 +25,5 @@ Librairies Python requises  :
 - Requests
 - Json
 - datetiume
+
+  -> Les premiers fichiers seront upload le 30/01/2025 !
