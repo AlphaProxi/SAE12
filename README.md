@@ -21,9 +21,15 @@ Vous pouvez également consulter la heatmap qui permet d'afficher graphiquement 
 Librairies Python requises  : 
 =======
 
-- Plotly
-- Requests
-- Json
-- datetiume
+- plotly
+- requests
+- json
+- datetime
+- seaborn
+- scipy
+- os
+- math
+- matplotlib
+- numpy
 
   -> Les premiers fichiers seront upload le 30/01/2025 !
