@@ -1,9 +1,9 @@
-# SAE12
+# SAE15
 
 Introduction
 ======
 
-Bienvenue dans le dépôt de notre SAE12. Durant ce projet, nous avons travaillé afin de récupérer les données liées au stationnement dans la ville de Montpellier pour les vélos et les voitures.
+Bienvenue dans le dépôt de notre SAE15. Durant ce projet, nous avons travaillé afin de récupérer les données liées au stationnement dans la ville de Montpellier pour les vélos et les voitures.
 
 Traitement des données
 =======
