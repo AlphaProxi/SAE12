@@ -31,5 +31,3 @@ Librairies Python requises  :
 - math
 - matplotlib
 - numpy
-
-  -> Les premiers fichiers seront upload le 30/01/2025 !
